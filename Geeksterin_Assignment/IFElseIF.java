@@ -17,7 +17,6 @@ public class IFElseIF {
 			else 
 				System.out.println(num3);
 		
-		
 	}
 
 }
